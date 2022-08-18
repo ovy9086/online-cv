@@ -61,7 +61,7 @@ career-profile:
   title: Professional Summary
   summary: |
     Head of Mobile Engineering with 12+ years of software development experience, focused on React Native for the past 4 years.
-    
+
     Currently leading a React-Native team of 6 building an app with over 3 million installs.
     Experienced in adopting new technologies and creating a productive environment for development teams, helped building from scratch the mobile department at Corebuild.
     High technical analysis and software architecture skills, with a deep understanding of distributed system and environments.
@@ -82,7 +82,7 @@ experiences:
     time: 2018 - Present
     company: Corebuild, Cluj-Napoca
     details: |
-        - Currently leading a team of 6 React Native engineers developing, which builds and maintain a successful app with 3mil+ installs, and 4.9 rating 
+        - Currently leading a team of 6 React Native engineers, which builds and maintains a successful app with 3mil+ installs, and 4.9 rating 
         - Analyzing, designing and implementing integrations with various small and large scale software systems
         - Managing the mobile department of 15-20 mobile engineers, implementing various mobile solutions using React Native, native iOS and Android
         - Conducting performance reviews, providing mentorship, and keeping team members engaged and satisfied

@@ -6,3 +6,6 @@
 #Work experience 
 3-6 bullet points https://resume.io/how-to-write-a-resume/writing-work-experience-on-a-resume
 good example : https://www.linkedin.com/in/finnkillam
+
+https://www.levels.fyi/blog/swe-level-framework.html
+https://www.interviewkickstart.com/blog/facebook-software-engineer-levels
