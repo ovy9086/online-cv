@@ -3,192 +3,167 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Ovidiu Andrei Latcu
+  tagline: Head of Mobile Engineering
+  avatar: profile-ovi.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+  # Sidebar links
+  email: ovidiu.latcu@gmail.com
+  phone: '+40730152828'
+  timezone: Europe/Bucharest
+  citizenship:
+  website: #medium.com/@ovidiu.latcu #do not add http://
+  medium: ovidu.latcu
+  linkedin: ovidiulatcu
+  # xing: alandoe
+  github: ovy9086
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  twitter:
+  stack-overflow: ovidiu-latcu
+  stack-overflow-id: 542091
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  pdf: # http://www.africau.edu/images/default/sample.pdf
 
-    languages:
-      - idiom: English
-        level: Native
+  languages:
+    - idiom: English
+      level: Professional
 
-      - idiom: French
-        level: Professional
+    - idiom: Romanian
+      level: Native
 
-      - idiom: Spanish
-        level: Professional
+  interests:
+    - item: Technology
+      link:
 
-    interests:
-      - item: Climbing
-        link:
+    - item: Snowboarding
+      link:
 
-      - item: Snowboarding
-        link:
+    - item: Hiking
+      link:
 
-      - item: Cooking
-        link:
+    - item: Camping
+      link:
+
+    - item: Gym
+      link:
+
+    - item: Travel
+      link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+  title: Professional Summary
+  summary: |
+    Head of Mobile Engineering with 12+ years of software development experience, focused on React Native for the past 4 years.
+    
+    Currently leading a React-Native team of 6 building an app with over 3 million installs.
+    Experienced in adopting new technologies and creating a productive environment for development teams, helped building from scratch the mobile department at Corebuild.
+    High technical analysis and software architecture skills, with a deep understanding of distributed system and environments.
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+  - degree: BSc in Computer Science
+    university: Technical University of Cluj Napoca
+    time: 2006 - 2010
+    details: |
+
+  - degree: High School Diploma
+    university: Mirce Eliade National College
+    time: 2002 - 2006
+    details: |
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  - role: Head of Mobile Engineering
+    time: 2018 - Present
+    company: Corebuild, Cluj-Napoca
+    details: |
+        - Currently leading a team of 6 React Native engineers developing, which builds and maintain a successful app with 3mil+ installs, and 4.9 rating 
+        - Analyzing, designing and implementing integrations with various small and large scale software systems
+        - Managing the mobile department of 15-20 mobile engineers, implementing various mobile solutions using React Native, native iOS and Android
+        - Conducting performance reviews, providing mentorship, and keeping team members engaged and satisfied
+        - Keeping a close relationship with customers, ensuring their needs are met, helping them expand their products and teams
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+  - role: Android Technical Lead
+    time: 2014 - 2018
+    company: Corebuild, Cluj-Napoca
+    details: |
+      - Early proposer and successful adopter of new technologies like Kotlin, Reactive Programming
+      - Setup the continuos integration and delivery solution for our department
+      - Worked in close with all Android teams on various projects, helped in high level decissions as well as hands-on coding
+      - Cooperated and maintained a good relationship with customers, ensuring projects and delivery are on track
+      - Responsible for internship programs, coaching, mentoring of interns, hiring each year 1 or 2 new developers helping the department grow
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  - role: Senior Android Developer
+    time: 2012 - 2014
+    company: Corebuild, Cluj-Napoca
+    details: |
+      - Lead team of 2 that developed,launched and maintained an Android application for food ordering, reaching over 1 million users
+      - Built an ecosystem of mobile apps used by truck drivers and dispatchers for logistics
+      - Developed new features for an existing music discovery & streaming app
+      - Proposed and implemented the way-of-working of the Android department
+      - Responsible for internship programs and interviewing new candidates
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  - role: Android Developer
+    time: 2010-2012
+    company: PiTechPlus, Cluj-Napoca
+    details: |
+      - Used my gained Java experience to transition to Android development
+      - Built an application used in an automated-home system that was collecting data and configuring various sensors (gas, smoke).
+      - Collaborated with a big team to create a cloud sync media management system (similar to Dropbox)
+      - Worked with an early-stage startup to build a social video platform
+      - Trained mobile interns and helped them on various Android projects
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  - role: Java EE Developer
+    time: 2009-2010
+    company: PiTechPlus, Cluj-Napoca
+    details: |
+       - Worked along side senior engineers and under their guidance
+       - Designed, developed and implemented software applications for clients based on analysed requirements and understanding of industry technical standards 
+       - Created UML diagrams for components and services architecture
+       - Implement robust secured backend services using Java EE, Spring and Hibernate
+       - Developed frontend components using Javascript
+       - Responsible for implementing the i18n module for the application
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+  toolset:
+    - name: React-Native, Typescript
+      level: 100%
 
-      - name: Javascript & jQuery
-        level: 98%
+    - name: Android, Kotlin, Java
+      level: 100%
 
-      - name: Angular
-        level: 98%
+    - name: iOS, Swift
+      level: 70%
 
-      - name: HTML5 & CSS
-        level: 95%
+    - name: Software Design
+      level: 90%
 
-      - name: Ruby on Rails
-        level: 85%
+    - name: Clean Code
+      level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+    - name: Technical Analysis
+      level: 80%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    - name: Leadership
+      level: 90%
+
+    - name: GitHub
+      level: 85%
+
+    - name: CI/CD
+      level: 80%
+
+    - name: Node.JS, Javascript
+      level: 70%
+
+    - name: Blockchain
+      level: 60%
+

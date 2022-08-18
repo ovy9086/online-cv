@@ -32,14 +32,20 @@
     {% endif %}
 
     {% if sidebar.website %}
-    <li class="website"><i class="fas fa-globe-americas"></i>
+    <li class="website"><i class="fab fa-medium fa-lg"></i>
       <a href="http://{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.medium %}
+    <li class="website"><i class="fab fa-medium fa-lg"></i>
+      <a href="https://medium.com/@{{ sidebar.medium }}" target="_blank">medium.com/@{{ sidebar.medium }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.linkedin %}
     <li class="linkedin"><i class="fab fa-linkedin"></i>
-      <a href="https://linkedin.com/in/{{ sidebar.linkedin }}" target="_blank">{{ sidebar.linkedin }}</a>
+      <a href="https://linkedin.com/in/{{ sidebar.linkedin }}" target="_blank">linkedin/in/{{ sidebar.linkedin }}</a>
     </li>
     {% endif %}
 
@@ -51,7 +57,7 @@
 
     {% if sidebar.github %}
     <li class="github"><i class="fab fa-github"></i>
-      <a href="http://github.com/{{ sidebar.github }}" target="_blank">{{ sidebar.github }}</a>
+      <a href="http://github.com/{{ sidebar.github }}" target="_blank">github.com/{{ sidebar.github }}</a>
     </li>
     {% endif %}
 
@@ -75,7 +81,7 @@
 
     {% if sidebar.stack-overflow %}
     <li class="stack-overflow"><i class="fab fa-stack-overflow"></i>
-      <a href="https://stackoverflow.com/users/{{ sidebar.stack-overflow }}" target="_blank">{{ sidebar.stack-overflow }}</a>
+      <a href="https://stackoverflow.com/users/{{ sidebar.stack-overflow-id}}/{{ sidebar.stack-overflow }}" target="_blank">stackoverflow/{{ sidebar.stack-overflow }}</a>
     </li>
     {% endif %}
 

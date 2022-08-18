@@ -86,10 +86,12 @@ p {
   .contact-list {
     .fas,
     .fab,
+    .fa-brands,
     .far {
-      margin-right: 5px;
       font-size: 18px;
+      width: 30px;
       vertical-align: middle;
+      text-align-last: center
     }
     li {
       margin-bottom: 15px;
