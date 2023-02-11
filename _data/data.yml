@@ -60,8 +60,9 @@ sidebar:
 career-profile:
   title: Professional Summary
   summary: |
-    Head of Mobile Engineering with 12+ years of software development experience, focused on React Native for the past 4 years.
-    Experienced in adopting new technologies and creating a productive environment for development teams, helped build from scratch the mobile department at Corebuild.
+    Lead React Native Engineer with 13+ years of software development experience focused on React Native for the past 5 years.
+    Collaborating with product and designs teams, to help shape and build features and products.
+    Experienced in adopting new technologies and creating a productive environment for development teams.
     High technical analysis and software architecture skills, with a deep understanding of distributed systems and environments.
 
 education:
@@ -76,15 +77,27 @@ education:
     details: |
 
 experiences:
+  - role: React Native Lead
+    time: 2022 - present
+    company: Diet Doctor, Stockholm Sweden (remote)
+    details: |
+        - Mentoring and leading our React Native team in their daily tasks and projects
+        - Providing guidance and support to help the team improve their processes and deliver high-quality company products
+        - Overseeing the development of the company's React Native apps, ensuring they meet the necessary standards and requirements
+        - Collaborating with other departments, such as product and design, to help shape our future product
+        - Keeping up-to-date with the latest technologies and best practices in React Native development
+        - Continuously seeking opportunities to improve team efficiency and deliver better results
+        - Providing mentorship and career development opportunities to team members to help them grow professionally
+
   - role: Head of Mobile Engineering
-    time: 2018 - Present
+    time: 2018 - 2022
     company: Corebuild, Cluj-Napoca
     details: |
         - Managing the mobile department of 15-20 mobile engineers, implementing various mobile solutions using React Native, native iOS and Android
         - React Native Technical Lead to a team of 6 engineers, which builds and maintains a successful app serving 3 million users, with a 4.9 store rating 
         - Analyzing, designing and implementing integrations with various small and large-scale software systems
         - Providing guidance to senior engineers from the department in choosing the best architecture for new solutions and features
-        - Organizing internal presentations and trainings about best practices and latest technologies in the industry
+        - Organizing internal presentations and training about best practices and the latest technologies in the industry
         - Conducting performance reviews, providing mentorship, and keeping team members engaged and satisfied
         - Keeping a close relationship with customers, ensuring their needs are met, helping them expand their products and teams
 
@@ -117,7 +130,7 @@ experiences:
       - Built an application used in an automated-home system that was collecting data and configuring various sensors (gas, smoke).
       - Collaborated with a big team to create a cloud sync media management system (similar to Dropbox)
       - Worked with an early-stage startup to build a social video platform
-      - Trained mobile interns and helped them on various Android projects
+      - Trained mobile interns and helped them with various Android projects
 
   - role: Java EE Developer
     time: 2009-2010
